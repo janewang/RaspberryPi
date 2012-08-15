@@ -1,16 +1,17 @@
 Raspberry Pi
 ============
 
-Tinkering..
+Tinkering.. 
 
-## Setup Instruction
+## Setup Instructions
+The setup instructions are all over the place on the Internet. Here's the condensed and simplified instructions to setup your Raspberry Pi.
 
 #### SD Card Image
 I chose Arch Linux ARM because QtonPi is dead and the other images do not give you as much control. On Mac OS X the following instruction should get you set up with the SD Card Image.
 
 - Download Arch Linux ARM using BitTorrent.
-- Checksum `sha1sum ~/archlinuxarm-13-06-2012.zip`
-- `cd Volumes` `ls` Locate the SD Card.
+- Checksum `sha1sum ~/archlinuxarm-13-06-2012.zip` and compare to string provided. Same? Good. No? Redo.
+- `cd Volumes` `ls` locate the SD Card.
 - `df -h` and copy its name. Mine was /dev/disk3s1
 - `sudo diskutil unmount /dev/disk3s1`
 - `sudo dd bs=1m if=~/Downloads/archlinuxarm-13-06-2012/archlinuxarm-13-06-2012.img of=/dev/rdisk3`
