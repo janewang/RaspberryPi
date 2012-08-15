@@ -3,8 +3,6 @@ Raspberry Pi
 
 Tinkering..
 
-![raspberrypi jpeg](https://raw.github.com/janewang/RaspberryPi/master/raspberrypi.jpeg)
-
 ## Setup Instruction
 
 #### SD Card Image
@@ -33,3 +31,5 @@ It will promote for login.
 - To run a LXDE session `xinit /usr/bin/lxsession`
 
 Congratulations, you can download more programs and optimize it to your liking. It's just like what you'd do on the Mac. Enjoy!
+
+![raspberrypi jpeg](https://raw.github.com/janewang/RaspberryPi/master/raspberrypi.jpeg)
