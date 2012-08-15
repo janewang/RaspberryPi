@@ -3,7 +3,7 @@ Raspberry Pi
 
 Tinkering..
 
-![raspberrypi jpeg](https://github.com/janewang/RaspberryPi/raw/master/public/raspberrypi.jpeg)
+![raspberrypi jpeg](https://github.com/janewang/RaspberryPi/blob/master/raspberrypi.jpeg)
 
 ## Setup Instruction
 
