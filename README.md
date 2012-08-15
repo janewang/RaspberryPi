@@ -1,7 +1,9 @@
 Raspberry Pi
 ============
 
-Tinkering...
+Tinkering..
+
+![raspberrypi jpeg](https://github.com/janewang/RaspberryPi/raw/master/public/raspberrypi.jpeg)
 
 ## Setup Instruction
 
@@ -17,17 +19,17 @@ I chose Arch Linux ARM because QtonPi is dead and the other images do not give y
 - Wait patiently until the write to SD card is completed.
 
 #### Plug Everything into the Raspberry Pi
-You will need a lot of pieces - collect them all from your spare parts box (charger, mouse), your computer (monitor, keyboard, mouse), your mobile phone (charger), your camera (unformatted SD card), and your TV (monitor).
+You will need a lot of pieces - collect them all from your spare parts box (charger, mouse), your computer (monitor, keyboard, mouse), your mobile phone (charger), your camera (SD card - formatted as above), and your TV (monitor).
 
-When you plug in the power, a red light should be be on. The rest of shinny bright lights should all turn on. Check you screen and see if you see a Raspberry there. Wait for it...
+When you plug in the power, a red light should turn on. The rest of shinny bright lights should all turn on. Check your screen and see if there is a Raspberry. Wait for it...
 
 It will promote for login.
-Username: root
-Password: root
+- Username: root
+- Password: root
 
 #### Download LXDE (A Desktop Environment)
 - Update packages `pacman -Syn`
 - Install LXDE `pacman -S lxde xorg-xinit xf86-video-fbdev`
 - To run a LXDE session `xinit /usr/bin/lxsession`
 
-Congratulations, you can download more programs and optimize it to your likings. It's just like what you'd do on the Mac. Enjoy!
+Congratulations, you can download more programs and optimize it to your liking. It's just like what you'd do on the Mac. Enjoy!
