@@ -1,0 +1,69 @@
+### What to build?
+-Webcam server
+-Vehicle tracking (using an add-on GPS module)
+-Streaming internet radio box
+-Vehicle Diagnostics, full OBDII logger with touch screen interface
+-Baby monitor
+-Media server by adding a couple of USB hard drives
+-Media receiver (hopefully we’ll get a port of XBMC or PLEX)
+-Video chat
+-Game emulator, running MAME (build your own arcade cabinet?)
+-Network Attached Storage setup (NAS)
+-Mini web server
+-FTP server
+-Proxy server
+-Firewall
+-Portable Media PC
+-Run an alarm system
+-Security webcam (with motion sensor)
+-Control garden lighting
+-Control sprinkler system
+-Wearable computer
+-HTPC for TV web browsing
+-HTPC for streaming Netfilx / Hulu etc
+-In car Computer
+-Thin client computer
+-Game server
+-IRC / chat server
+-build a cheap laptop
+-build a cheap tablet
+-create a digital photo frame
+-Asterisk VOIP server
+-PBX
+-Home automation system
+-MP3 player
+-Portable personal computer, you can use it anywhere you can find a monitor.
+-multitouch screen coffee table
+-Wall hanging screen with voice control for network pictures, weather, news and RSS feeds
+-Cyber Cafe computer
+-Video conferencing system
+-Personal weather station / logger
+-Control a light display
+-Control an LED board
+-Put it in an old mac classic or mac plus case as a general purpose computer
+-Intelligent photo frame with touch
+-Wardriving setup
+-A dedicated Synth, possibly with touch screen
+-Solar powered desktop computer
+-CNC controller
+-High tech birthday / Xmas presents
+-Backup server
+-RSS ticker
+-High tech alarm clock
+-Mini projector
+-DOSBox for games
+-Processing farm for SETI@Home
+-Cafe media player
+-Brains for Arduino setup
+-Mumble server
+-Industrial manufacturing controller
+-TOR server
+-BitTorrent seedbox
+-Family notice board
+-CD / DVD ripping device
+-Car black box with video
+-Wall mounted, interactive mood lamp
+-Robotic telescope / camera controller
+-Display photographer portfolio images
+-BitTorrent client
+-SMS gateway
