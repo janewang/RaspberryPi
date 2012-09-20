@@ -22,7 +22,7 @@ You will need a lot of pieces - collect them all from your spare parts box (char
 
 When you plug in the power, a red light should turn on. The rest of shinny bright lights should all turn on. Check your screen and see if there is a Raspberry. Wait for it...
 
-It will promote for login.
+It will prompt for login.
 - Username: root
 - Password: root
 
